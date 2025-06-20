@@ -6,7 +6,8 @@
             "_description": "AppBuilder Test",
             "_slug": "point_b",
                "ticket": "fc46ea35d1c23cc66176b1dfcd620dc1be538cffa617a6bd11332c714191bf6d382b2256288245e9a8d67bbafc4f85bab3b99efc79f97b81dd14253f034b64149ad2c901d8ce9572ff56b9f4a3120117f492177cffd3552ccb092d2acdbee54dbfed855cf4509d-0322c40838148e3d5d905afd38ee87ce",
-               "modelViewUrl": "https://sdr8euc1.eu-central-1.shapediver.com"
+               "modelViewUrl": "https://sdr8euc1.eu-central-1.shapediver.com",
+            "scaleZ": "1.33"
         }
     ]
 }
